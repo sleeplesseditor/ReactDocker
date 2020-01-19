@@ -19,6 +19,7 @@ function App() {
           Learn React
         </a>
       </header>
+      <p className="blurb">It works inside of Docker too!</p>
     </div>
   );
 }
